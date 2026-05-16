@@ -1,0 +1,17 @@
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Controllers/RegistrationController.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Controllers/UserProfilesController.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/CrackersApplication.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Models/UserConfirmations.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Models/UserLoginCredentials.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Models/UserProfiles.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Repositories/UserConfirmationsRepository.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Repositories/UserLoginCredentialsRepository.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Repositories/UserProfilesRespository.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Services/EmailSenderService.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Services/JavaMailSender.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Services/UserConfirmationsService.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Services/UserLoginCredentialsService.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/Services/UserProfilesService.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/ServletInitializer.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/helper/EmailValidator.java
+/Users/sarkumar/Downloads/Crackers/src/main/java/com/example/Crackers/helper/ResponseMessage.java
